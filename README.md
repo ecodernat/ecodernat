@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I´m Alan Ruiz
+
+I am a full stack developer, who completed the Henry bootcamp. I’m currently learning typescript
 
 <!--
 **ecodernat/ecodernat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
