@@ -1,6 +1,6 @@
 ### Hi, I´m Alan Ruiz
 
-I am a Full Stack developer, who completed the Henry bootcamp. I’m currently learning typescript.
+I am a Full Stack developer, who completed the Henry bootcamp. I’m currently taking courses at FreeCodeCamp.
 
 About me: I’m passionate about technology, the significant advancements over the years, and how it has optimized industrial processes to improve our lives in areas such as longevity. Other interests include: new experiences, socializing, reading and latest news.
 
